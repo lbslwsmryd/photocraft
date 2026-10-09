@@ -13,7 +13,7 @@ heif = ["photocraft-codecs/heif"]
 
 [lints]
 workspace = true
-
+ 
 [lib]
 name = "photocraft_cli"
 path = "src/lib.rs"
